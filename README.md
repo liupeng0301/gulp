@@ -50,4 +50,6 @@ src下的任意文件修改都会自动执行压缩任务，把相应修改的�
 
 代码地址 [https://github.com/18334770485/gulp](https://github.com/18334770485/gulp)
 
-
+特别说明，本地node是8.11.2，如果报node版本不兼容，可以用node版本切换工具进行切换版本
+windows下可以用gnvm工具切花
+linux和mac下可以用nvm工具切换
